@@ -25,4 +25,5 @@ Here are some screenshots of the app:
   </tr>
     <td style="padding: 10px;"><img src="assets/calc_4.jpg" alt="Screen 4" style="width: 300px;"/></td>
   </tr>
+   <td colspan="2" style="width: 40px;"></td>
 </table>
