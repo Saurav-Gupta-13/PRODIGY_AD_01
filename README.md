@@ -2,15 +2,30 @@
 
 A new Flutter project.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+## App Screenshots
 
-A few resources to get you started if this is your first Flutter project:
+Here are some screenshots of the app:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<table>
+  <tr>
+    <td style="padding: 10px;"><img src="assets/calc_1.jpg" alt="Screen 1" style="width: 300px;"/></td>
+     <tr>
+    <td colspan="2" style="width: 40px;"></td> <!-- Empty row for vertical space -->
+  </tr>
+    <td style="padding: 10px;"><img src="assets/calc_2.jpg alt="Screen 2" style="width: 300px;"/></td>    
+  </tr>
+  <tr>
+    <td colspan="2" style="height: 40px;"></td> <!-- Empty row for vertical space -->
+  </tr>
+  <tr>
+    <td style="padding: 10px;"><img src="assets/calc_3.jpg" alt="Screen 3" style="width: 300px;"/></td>
+     <tr>
+    <td colspan="2" style="width: 40px;"></td> <!-- Empty row for vertical space -->
+  </tr>
+    <td style="padding: 10px;"><img src="assets/calc_4.jpg" alt="Screen 4" style="width: 300px;"/></td>
+  </tr>
+  <tr>
+    <td colspan="2" style="height: 20px;"></td> <!-- Empty row for vertical space -->
+  </tr>
+</table>
