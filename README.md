@@ -13,7 +13,7 @@ Here are some screenshots of the app:
      <tr>
     <td colspan="2" style="width: 40px;"></td> <!-- Empty row for vertical space -->
   </tr>
-    <td style="padding: 10px;"><img src="assets/calc_2.jpg alt="Screen 2" style="width: 300px;"/></td>    
+    <td style="padding: 10px;"><img src="assets/calc_2.jpg" alt="Screen 2" style="width: 300px;"/></td>    
   </tr>
   <tr>
     <td colspan="2" style="height: 40px;"></td> <!-- Empty row for vertical space -->
